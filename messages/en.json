@@ -1,0 +1,8 @@
+{
+  "HomePage": {
+    "title": "Hello World",
+    "subtitle": "Welcome to my portfolio",
+    "description": "This is a multilingual Next.js application using next-intl"
+  }
+}
+
